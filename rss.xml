@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Creative Junction]]></title>
         <description><![CDATA[Creative Junction]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creative-junction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 15:40:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 15:42:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative-junction/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08959664-9bbe-49c3-986f-37a48a4440be.jpg" alt="" title="" />]]></description>
-            <link>undefined48ea9a75-201a-4ba6-b073-50b60dbd30d6/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08959664-9bbe-49c3-986f-37a48a4440be.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/creative-junction/48ea9a75-201a-4ba6-b073-50b60dbd30d6/index.html</link>
             <guid isPermaLink="false">48ea9a75-201a-4ba6-b073-50b60dbd30d6</guid>
-            <pubDate>Fri, 20 May 2016 15:40:32 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 15:42:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
