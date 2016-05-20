@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Creative Junction]]></title>
         <description><![CDATA[Creative Junction]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creative-junction/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 16:23:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 16:23:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative-junction/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e9da29b-e318-4149-ab6f-ec1288c18d93.jpg"></article>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <link>https://thegrid.ai/creative-junction/about-us/index.html</link>
             <guid isPermaLink="false">10f43a90-ab19-4a93-9159-c814ff18db17</guid>
-            <pubDate>Fri, 20 May 2016 16:22:39 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 16:22:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
